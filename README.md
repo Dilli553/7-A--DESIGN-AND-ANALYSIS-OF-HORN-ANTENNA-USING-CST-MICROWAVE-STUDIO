@@ -6,7 +6,7 @@ Software to be used: CST studio suite 2019 (Student edition)
 **Design:**
 
 **	Mathematical Calculation**
-
+```
 Tan θ/2 =a/2L 
 L=a
 ^2/8 δ  
@@ -22,6 +22,7 @@ sing
  
 U a	L  2 we get a=110 mm for both E and H plane.
 8
+```
 
 **Design of Horn Antenna**
 
@@ -41,6 +42,10 @@ U a	L  2 we get a=110 mm for both E and H plane.
 
 **Conclusion**
 
-From this Experiment we have Designed a Horn-antenna which is Operating at a frequency of 5.5 GHz,from this we have Found the S11 C/s,Directivity and Radiation Pattern. From which we found that the Directivity to be near 15
+From this Experiment we have Designed a Horn-antenna which is Operating at a frequency of 5.5 GHz,
+
+from this we have Found the S11 C/s,
+
+Directivity and Radiation Pattern. From which we found that the Directivity to be near 15
 
 
